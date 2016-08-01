@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness Freak</string>
+    <string name="action_settings">Settings</string>
+    <string name="Enter">Enter</string>
+    <string name="Name1">Safal Pandita</string>
+    <string name="Name2">Avantika Chhabra</string>
+    <string name="Created">Created by:</string>
+    <string name="Name">Enter your name:</string>
+    <string name="Weight">Enter your weight (in kg) :</string>
+    <string name="Begin">Begin</string>
+    <string name="Distance">"Distance Moved(m) : "</string>
+    <string name="Speed">"Avg. Speed(m/s) : "</string>
+    <string name="Time">"Time(s) : "</string>
+    <string name="Calories">"Calories burnt/min : "</string>
+    <string name="Restart">Reset</string>
+    <string name="Quit">Quit</string>
+    <string name="Gender">"Are you : "</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Description">MSIT Logo</string>
+</resources>
